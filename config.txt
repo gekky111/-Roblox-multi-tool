@@ -1,0 +1,9 @@
+cookie = _WARNING:REPLACE_EVERYTHING_WITH_YOUR_FULL_COOKIE
+
+[optional]
+proxies = false
+debugmode = false
+ratelimitwaitseconds = 35 
+maxrobuxtospend = 100
+
+
